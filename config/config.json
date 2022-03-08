@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf44aC69Fb637d83E9Fb38a44dbEBa4283d742c04",
+  "SCAN_LINK": "https://etherscan.io/address/0xf44ac69fb637d83e9fb38a44dbeba4283d742c04",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID":1
+  },
+  "NFT_NAME": "Half Breeds Hybrid Club",
+  "SYMBOL": "HBHC",
+  "MAX_SUPPLY": 2512,
+  "WEI_COST": 44000000000000000,
+  "DISPLAY_COST": 0.044,
+  "GAS_LIMIT": 150000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
