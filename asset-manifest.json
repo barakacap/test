@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbb0e3b9.chunk.css",
-    "main.js": "/static/js/main.9d1e73f0.chunk.js",
-    "main.js.map": "/static/js/main.9d1e73f0.chunk.js.map",
+    "main.css": "/static/css/main.9b02911e.chunk.css",
+    "main.js": "/static/js/main.5025c2fb.chunk.js",
+    "main.js.map": "/static/js/main.5025c2fb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a02cfc14.js",
     "runtime-main.js.map": "/static/js/runtime-main.a02cfc14.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.cb2491ed.chunk.js.map": "/static/js/3.cb2491ed.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.bbb0e3b9.chunk.css.map": "/static/css/main.bbb0e3b9.chunk.css.map",
+    "static/css/main.9b02911e.chunk.css.map": "/static/css/main.9b02911e.chunk.css.map",
     "static/js/2.ac78dca7.chunk.js.LICENSE.txt": "/static/js/2.ac78dca7.chunk.js.LICENSE.txt",
     "static/media/1.65740cf3.png": "/static/media/1.65740cf3.png",
     "static/media/1.93fc127c.png": "/static/media/1.93fc127c.png",
@@ -31,7 +31,6 @@
     "static/media/8.7d7e7ebf.png": "/static/media/8.7d7e7ebf.png",
     "static/media/9.b46fd85b.png": "/static/media/9.b46fd85b.png",
     "static/media/App.scss": "/static/media/AgrandirVariable-WideBold.c8e24141.ttf",
-    "static/media/about-logo.e17be77c.png": "/static/media/about-logo.e17be77c.png",
     "static/media/artGif.e276d4f0.gif": "/static/media/artGif.e276d4f0.gif",
     "static/media/atlantis-example.f67855c7.png": "/static/media/atlantis-example.f67855c7.png",
     "static/media/atlantis-symbol.a83d0347.png": "/static/media/atlantis-symbol.a83d0347.png",
@@ -41,7 +40,7 @@
     "static/media/fancy-symbol.b8f7afa9.png": "/static/media/fancy-symbol.b8f7afa9.png",
     "static/media/loading.7e43d879.svg": "/static/media/loading.7e43d879.svg",
     "static/media/logo.42a93a6b.png": "/static/media/logo.42a93a6b.png",
-    "static/media/mintImg.d2ed5648.png": "/static/media/mintImg.d2ed5648.png",
+    "static/media/mint-img.31b0550f.webp": "/static/media/mint-img.31b0550f.webp",
     "static/media/royal-example.a5f4ee1f.png": "/static/media/royal-example.a5f4ee1f.png",
     "static/media/royalty-symbol.5d547251.png": "/static/media/royalty-symbol.5d547251.png",
     "static/media/samurai-example.9777aeed.png": "/static/media/samurai-example.9777aeed.png",
@@ -51,7 +50,7 @@
     "static/js/runtime-main.a02cfc14.js",
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.ac78dca7.chunk.js",
-    "static/css/main.bbb0e3b9.chunk.css",
-    "static/js/main.9d1e73f0.chunk.js"
+    "static/css/main.9b02911e.chunk.css",
+    "static/js/main.5025c2fb.chunk.js"
   ]
 }
