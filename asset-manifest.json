@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.64f70dc3.chunk.css",
-    "main.js": "/static/js/main.399d0fcd.chunk.js",
-    "main.js.map": "/static/js/main.399d0fcd.chunk.js.map",
+    "main.js": "/static/js/main.758f69d9.chunk.js",
+    "main.js.map": "/static/js/main.758f69d9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a02cfc14.js",
     "runtime-main.js.map": "/static/js/runtime-main.a02cfc14.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
@@ -39,7 +39,7 @@
     "static/media/fancy-example.7508e9f5.webp": "/static/media/fancy-example.7508e9f5.webp",
     "static/media/fancy-symbol.4d5f3cea.webp": "/static/media/fancy-symbol.4d5f3cea.webp",
     "static/media/loading.7e43d879.svg": "/static/media/loading.7e43d879.svg",
-    "static/media/logo.bd701fe2.png": "/static/media/logo.bd701fe2.png",
+    "static/media/logo.cb7fb87c.webp": "/static/media/logo.cb7fb87c.webp",
     "static/media/mint-img.9abea5c1.webp": "/static/media/mint-img.9abea5c1.webp",
     "static/media/royal-example.51d548d0.webp": "/static/media/royal-example.51d548d0.webp",
     "static/media/royalty-symbol.01f41ec8.webp": "/static/media/royalty-symbol.01f41ec8.webp",
@@ -51,6 +51,6 @@
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.ac78dca7.chunk.js",
     "static/css/main.64f70dc3.chunk.css",
-    "static/js/main.399d0fcd.chunk.js"
+    "static/js/main.758f69d9.chunk.js"
   ]
 }
